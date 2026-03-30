@@ -32,18 +32,19 @@
   <img src="https://img.shields.io/badge/SwiftUI-0A84FF?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftUI" />
   <img src="https://img.shields.io/badge/Objective--C-334155?style=for-the-badge&logo=apple&logoColor=white" alt="Objective-C" />
   <img src="https://img.shields.io/badge/React%20Native-06B6D4?style=for-the-badge&logo=react&logoColor=0f172a" alt="React Native" />
+  <img src="https://img.shields.io/badge/Expo-111827?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-2563EB?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-FACC15?style=for-the-badge&logo=javascript&logoColor=111827" alt="JavaScript" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=111827" alt="React" />
-  <img src="https://img.shields.io/badge/Expo-111827?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
+  <img src="https://img.shields.io/badge/Node-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Nodejs" />
 </p>
 
 ## Focus Areas
 
 - iOS engineering with `Swift`, `SwiftUI`, and native platform APIs
-- Cross-platform product work with `React Native`
+- Cross-platform product work with `React Native` and `Expo`
 - Native bridge work across `Swift`, `Objective-C`, `Java`, `Kotlin`, and JavaScript runtimes
 - Frontend and tooling work with `TypeScript`, `JavaScript`, `React`, and DX-focused automation
 - Backend with `Node`, `TypeScript`, and various SaaS platforms
