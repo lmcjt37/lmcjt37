@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,35:0B5FFF,70:14B8A6,100:F59E0B&text=Luke%20Taylor&fontColor=F8FAFC&fontSize=52&fontAlignY=38&desc=Senior+%20Mobile%20Engineer%20%7C%20DX%20Advocate&descAlignY=58" alt="Luke Taylor banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,35:0B5FFF,70:14B8A6,100:F59E0B&text=Luke%20Taylor&fontColor=F8FAFC&fontSize=52&fontAlignY=38&desc=Tech%20Leader%20%7C%20Mobile%20Engineer%20%7C%20DX%20Advocate&descAlignY=58" alt="Luke Taylor banner" />
 </p>
 
 <p align="center">
