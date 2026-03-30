@@ -7,10 +7,10 @@
     <img src="https://img.shields.io/badge/GitHub-lmcjt37-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub badge" />
   </a>
   <a href="https://lmcjt.dev/">
-    <img src="https://img.shields.io/badge/Website-lmcjt.dev-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website badge" />
+    <img src="https://img.shields.io/badge/Website-lmcjt.dev-0ea5e9?style=for-the-badge" alt="Website badge" />
   </a>
   <a href="https://www.linkedin.com/in/lukemalcolmtaylor/">
-    <img src="https://img.shields.io/badge/LinkedIn-lukectaylor-2563eb?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge" />
+    <img src="https://img.shields.io/badge/LinkedIn-lukemalcolmtaylor-2563eb?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge" />
   </a>
   <a href="https://x.com/lmcjt">
     <img src="https://img.shields.io/badge/X-@lmcjt-111827?style=for-the-badge&logo=x&logoColor=white" alt="X badge" />
