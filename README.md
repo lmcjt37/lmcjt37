@@ -50,17 +50,42 @@
 
 This chart is a snapshot of byte-weighted language usage across my public repositories on **March 30, 2026**. It reflects what is visible on GitHub, not internal or client work.
 
-```mermaid
-pie showData
-    title Public Repo Language Mix
-    "JavaScript 52.2%" : 52.2
-    "CSS 21.6%" : 21.6
-    "Swift 15.4%" : 15.4
-    "HTML 4.2%" : 4.2
-    "Objective-C 2.7%" : 2.7
-    "SCSS 1.7%" : 1.7
-    "Other 2.2%" : 2.2
-```
+<table>
+  <tr>
+    <td>
+      <strong>Most Used Languages</strong><br /><br />
+      <table width="100%">
+        <tr>
+          <td width="52.2%" bgcolor="#f1e05a" title="JS/TS 52.2%"></td>
+          <td width="21.6%" bgcolor="#563d7c" title="CSS 21.6%"></td>
+          <td width="15.4%" bgcolor="#f05138" title="Swift 15.4%"></td>
+          <td width="4.2%" bgcolor="#e34c26" title="HTML 4.2%"></td>
+          <td width="2.7%" bgcolor="#438eff" title="Objective-C 2.7%"></td>
+          <td width="1.7%" bgcolor="#c6538c" title="SCSS 1.7%"></td>
+          <td width="2.2%" bgcolor="#6b7280" title="Other 2.2%"></td>
+        </tr>
+      </table>
+      <br />
+      <table width="100%">
+        <tr>
+          <td>🟡 JS/TS 52.2%</td>
+          <td>🟣 CSS 21.6%</td>
+          <td>🟠 Swift 15.4%</td>
+        </tr>
+        <tr>
+          <td>🔴 HTML 4.2%</td>
+          <td>🔵 Objective-C 2.7%</td>
+          <td>🩷 SCSS 1.7%</td>
+        </tr>
+        <tr>
+          <td>⚫ Other 2.2%</td>
+          <td></td>
+          <td></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
 ## Highlighted Work
 
