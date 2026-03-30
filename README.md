@@ -46,46 +46,13 @@
 - Native bridge work across `Swift`, `Objective-C`, `Java`, `Kotlin`, and JavaScript runtimes
 - Frontend and tooling work with `TypeScript`, `React`, and DX-focused automation
 
-## Public Repo Language Mix
+## Languages
 
-This chart is a snapshot of byte-weighted language usage across my public repositories on **March 30, 2026**. It reflects what is visible on GitHub, not internal or client work.
+Language based snapshot of byte-weighted usage across my public repositories on **March 30, 2026**.
 
-<table>
-  <tr>
-    <td>
-      <strong>Most Used Languages</strong><br /><br />
-      <table width="100%">
-        <tr>
-          <td width="52.2%" bgcolor="#f1e05a" title="JS/TS 52.2%"></td>
-          <td width="21.6%" bgcolor="#563d7c" title="CSS 21.6%"></td>
-          <td width="15.4%" bgcolor="#f05138" title="Swift 15.4%"></td>
-          <td width="4.2%" bgcolor="#e34c26" title="HTML 4.2%"></td>
-          <td width="2.7%" bgcolor="#438eff" title="Objective-C 2.7%"></td>
-          <td width="1.7%" bgcolor="#c6538c" title="SCSS 1.7%"></td>
-          <td width="2.2%" bgcolor="#6b7280" title="Other 2.2%"></td>
-        </tr>
-      </table>
-      <br />
-      <table width="100%">
-        <tr>
-          <td>🟡 JS/TS 52.2%</td>
-          <td>🟣 CSS 21.6%</td>
-          <td>🟠 Swift 15.4%</td>
-        </tr>
-        <tr>
-          <td>🔴 HTML 4.2%</td>
-          <td>🔵 Objective-C 2.7%</td>
-          <td>🩷 SCSS 1.7%</td>
-        </tr>
-        <tr>
-          <td>⚫ Other 2.2%</td>
-          <td></td>
-          <td></td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="./assets/language-mix-card.svg" alt="Most Used Languages segmented bar chart" width="720" />
+</p>
 
 ## Highlighted Work
 
