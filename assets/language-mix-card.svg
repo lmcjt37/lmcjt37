@@ -1,8 +1,8 @@
-<svg width="720" height="210" viewBox="0 0 720 210" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+<svg width="720" height="230" viewBox="0 0 720 230" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Most Used Languages</title>
   <desc id="desc">Segmented bar chart showing public repository language mix: JS/TS 52.2%, HTML/CSS/SCSS 27.5%, Swift 15.4%, Objective-C 2.7%, Other 2.2%.</desc>
-  <rect x="10" y="10" width="700" height="190" rx="18" fill="#FFFFFF"/>
-  <rect x="10.75" y="10.75" width="698.5" height="188.5" rx="17.25" stroke="#E5E7EB" stroke-width="1.5"/>
+  <rect x="10" y="10" width="700" height="210" rx="18" fill="#FFFFFF"/>
+  <rect x="10.75" y="10.75" width="698.5" height="208.5" rx="17.25" stroke="#E5E7EB" stroke-width="1.5"/>
 
   <text x="34" y="52" fill="#4F46E5" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="28" font-weight="700">
     Most Used Languages
@@ -24,18 +24,18 @@
 
   <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="18" fill="#4B5563">
     <circle cx="42" cy="130" r="7" fill="#F1E05A"/>
-    <text x="58" y="136" font-weight="600">JS/TS 52.2%</text>
+    <text x="58" y="136" font-weight="600" text-anchor="start">JS/TS 52.2%</text>
 
-    <circle cx="262" cy="130" r="7" fill="#7C3AED"/>
-    <text x="278" y="136" font-weight="600">HTML/CSS/SCSS 27.5%</text>
+    <circle cx="382" cy="130" r="7" fill="#7C3AED"/>
+    <text x="398" y="136" font-weight="600" text-anchor="start">HTML/CSS/SCSS 27.5%</text>
 
-    <circle cx="452" cy="130" r="7" fill="#F05138"/>
-    <text x="468" y="136" font-weight="600">Swift 15.4%</text>
+    <circle cx="42" cy="160" r="7" fill="#F05138"/>
+    <text x="58" y="166" font-weight="600" text-anchor="start">Swift 15.4%</text>
 
-    <circle cx="262" cy="165" r="7" fill="#438EFF"/>
-    <text x="278" y="171" font-weight="600">Objective-C 2.7%</text>
+    <circle cx="382" cy="160" r="7" fill="#438EFF"/>
+    <text x="398" y="166" font-weight="600" text-anchor="start">Objective-C 2.7%</text>
 
-    <circle cx="452" cy="165" r="7" fill="#6B7280"/>
-    <text x="468" y="171" font-weight="600">Other 2.2%</text>
+    <circle cx="42" cy="190" r="7" fill="#6B7280"/>
+    <text x="58" y="196" font-weight="600" text-anchor="start">Other 2.2%</text>
   </g>
 </svg>
