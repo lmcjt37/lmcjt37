@@ -48,7 +48,7 @@
 
 ## Languages
 
-Language based snapshot of byte-weighted usage across my public repositories on **March 30, 2026**.
+Language-based snapshot of byte-weighted usage across my public repositories on **March 30, 2026**.
 
 <p align="center">
   <img src="./assets/language-mix-card.svg" alt="Most Used Languages segmented bar chart" width="720" />
